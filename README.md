@@ -36,6 +36,8 @@ This project presents a cloud-native reference architecture built on these princ
 
 ## High-Level Architecture
 
+![Enterprise Data Platform Architecture](diagrams/enterprise-data-platform-architecture.png)
+
 ```mermaid
 flowchart TD
     subgraph SRC[Data Sources]
